@@ -4,7 +4,8 @@
     <list default="true" id="f6b3dafb-b543-4e17-ab49-89421ad3ab5d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Jogo Da Bolinha-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Jogo Da Bolinha-1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Fase1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Fase1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Moeda.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Moeda.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,8 @@
       <workItem from="1696871793278" duration="1111000" />
       <workItem from="1696883398874" duration="2633000" />
       <workItem from="1697022305613" duration="949000" />
-      <workItem from="1697633576790" duration="737000" />
+      <workItem from="1697633576790" duration="1036000" />
+      <workItem from="1698760884607" duration="1297000" />
     </task>
     <servers />
   </component>
